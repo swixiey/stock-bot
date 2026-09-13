@@ -29,7 +29,7 @@ PRODUCT_PAGE_URL = (
     "turn-up-the-tease-ruffle-halter-mini-dress-05103000064060"
     "?variant=42978350759987"
 )
-VARIANT_ID = 42978350891059  # RED / S
+VARIANT_ID = 42978350759987  # RED / S
 VARIANT_LABEL = "Red, Size Small"
 
 # ntfy.sh topic to publish to. Anyone who knows the topic name can read
